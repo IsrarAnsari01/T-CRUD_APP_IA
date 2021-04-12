@@ -39,5 +39,5 @@ This is simple CRUD as well as bloging App.
   * multer
 ## Site Link  
 https://firstreactapp-8bacc.web.app/
-## !Important
+## !Note
 This is my hobby project so i bypass the validations in Forms. Validation in Form will Implemented 
