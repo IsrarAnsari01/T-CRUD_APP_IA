@@ -38,15 +38,3 @@ module.exports.listAllComments = function (query) {
     })
 }
 
-
-// module.exports.listSpecficCetagory = (blogId) => {
-//     return new Promise((resolve, reject) => {
-//         CetagoryModel.findById(blogId, (err,doc ) => {
-//             if (err) {
-//                 reject(err);
-//             } else {
-//                 resolve(doc)
-//             }
-//         })
-//     })
-// }
