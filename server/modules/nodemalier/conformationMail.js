@@ -15,7 +15,7 @@ module.exports.conformationEmailSender = function (userEmail) {
         subject: "Account Verification By SMS",
         html: `<h1> Hello User Please conform your account by clicking this link </h1> <br>
                <p>This link is send by SMS company to verify you</p> <br> 
-                <a href='https://firstreactapp-8bacc.web.app/login/?verify=${randomNumber}'> Click this link to verify </a>`
+                <a href='https://crud-app-01.web.app/login/?verify=${randomNumber}'> Click this link to verify </a>`
     }
     return new Promise((resolve , reject) => {
         transporter.sendMail(mainOption, (err, info) => {
