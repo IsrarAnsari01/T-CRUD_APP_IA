@@ -38,6 +38,6 @@ This is simple CRUD as well as bloging App.
   * mongoose 
   * multer
 ## Site Link  
-https://firstreactapp-8bacc.web.app/
+https://crud-app-01.web.app/
 ## !Note
 This is my hobby project so i bypass the validations in Forms. Validation in Form will Implemented 
