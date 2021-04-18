@@ -37,7 +37,5 @@ This is simple CRUD as well as bloging App.
   * bcrypt
   * mongoose 
   * multer
-## Site Link  
-https://crud-app-01.web.app/
 ## !Note
 This is my hobby project so i bypass the validations in Forms. Validation in Form will be Implemented 
